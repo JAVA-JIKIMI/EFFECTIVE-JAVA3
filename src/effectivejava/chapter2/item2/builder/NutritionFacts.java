@@ -8,7 +8,6 @@ public class NutritionFacts {
     private final int fat;
     private final int sodium;
     private final int carbohydrate;
-
     public static class Builder {
         // 필수 매개변수
         private final int servingSize;
